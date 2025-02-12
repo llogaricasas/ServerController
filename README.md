@@ -1,10 +1,10 @@
 # ServerController
 
 ## Overview
-ServerController is a C# project designed to manage HTTP requests and local server ports. It provides functionality to handle web requests efficiently and control server settings.
+ServerController is a C# project designed to manage HTTPS requests and local server ports. It provides functionality to handle web requests efficiently and control server settings.
 
 ## Features
-- HTTP request handling
+- HTTPS request handling
 - Local server port management
 - Lightweight and efficient
 
