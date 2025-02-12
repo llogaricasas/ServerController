@@ -1,17 +1,17 @@
 # ServerController
 
 ## Overview
-ServerController is a C# project designed to manage HTTPS requests and local server ports. It provides functionality to handle web requests efficiently and control server settings.
+ServerController is a C# project designed to manage HTTP requests and local server ports. It provides functionality to handle web requests efficiently and control server settings.
 
 ## Features
-- HTTPS request handling
+- HTTP request handling
 - Local server port management
 - Lightweight and efficient
 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/llogaricasas/ServerController
    ```
 2. Open the solution file `ServerController.sln` in Visual Studio.
 3. Restore dependencies using NuGet Package Manager.
@@ -24,20 +24,16 @@ ServerController is a C# project designed to manage HTTPS requests and local ser
 
 ## File Structure
 ```
-web-request-handler-main/
-├── .gitignore
+ServerController-main/
 ├── ServerController.sln
 └── ServerController/
     ├── HttpManager.cs
     ├── LocalServerPort.cs
     ├── Program.cs
-    ├── ServerController.csproj
-    ├── Properties/
-    │   └── launchSettings.json
 ```
 
 ## Contributors
-- [Your Name]
+Developed by [Llogari Casas](https://www.llogaricasas.com).
 
 ## License
 This project is licensed under the MIT License.
